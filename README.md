@@ -6,4 +6,6 @@
 4. Step 1: Header Cleaning - lowercase, replace space with "_"
 5. Step 2 : Type Conversion and Currency Cleaning
 6. STEP 3: Categorical Typos
+7. Step4 : Handling mixed booleans
+8. Step 5 : Date Parsing
    
