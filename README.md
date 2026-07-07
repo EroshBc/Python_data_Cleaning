@@ -8,4 +8,9 @@
 6. STEP 3: Categorical Typos
 7. Step4 : Handling mixed booleans
 8. Step 5 : Date Parsing
+9. Step 6 : Logical Intergrity vs Impressions
+10. Step 7 : Logical Integrity (Time travel)
+11. Step 8 : Handling Outliers
+12. Step 9 : String Parsing
+    
    
